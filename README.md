@@ -1,14 +1,14 @@
 * Pasos a seguir
 
-** Primera Vez
-- git init
-- git branch -M main
-- git remote add origin https://github.com/PabloSandovalUx/segundoRepo.git
-- git add .
-- git commit -m "mensaje"
-- git push -u origin main
+## Primera Vez
+1. git init
+2. git branch -M main
+3. git remote add origin https://github.com/PabloSandovalUx/segundoRepo.git
+4. git add .
+5. git commit -m "mensaje"
+6. git push -u origin main
 
-** Segunda Vez
-- git add .
-- git commit -m "mensaje"
-- git push -u
+## Segunda Vez
+1. git add .
+2. git commit -m "mensaje"
+3. git push -u
